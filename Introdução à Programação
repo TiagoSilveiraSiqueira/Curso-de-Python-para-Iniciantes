@@ -1,22 +1,21 @@
 # Introdução à Programação
 
-## **O que é programação?**
+# O que é programação?
 
 **Programação** é a arte de dar instruções a um computador para que ele realize tarefas específicas. É como escrever um conjunto de comandos que dizem ao computador o que fazer. As instruções são escritas em linguagens de programação, e cada linguagem possui sua própria sintaxe e regras. A programação é fundamental em praticamente todos os aspectos da tecnologia moderna, desde a criação de aplicativos para dispositivos móveis até o processamento de dados em servidores.
 
-## **Por que Python?**
+# Por que Python?
+Python é uma linguagem de programação popular, conhecida por sua simplicidade e clareza. Existem várias razões pelas quais Python é uma ótima escolha para iniciantes:
 
-**Python** é uma linguagem de programação popular, conhecida por sua simplicidade e clareza. Existem várias razões pelas quais Python é uma ótima escolha para iniciantes:
+1. Sintaxe Limpa: A sintaxe de Python é fácil de ler e entender, o que a torna uma excelente escolha para iniciantes. Você pode escrever código Python que se parece com a linguagem natural.
 
-1. **Sintaxe Limpa:** A sintaxe de Python é fácil de ler e entender, o que a torna uma excelente escolha para iniciantes. Você pode escrever código Python que se parece com a linguagem natural.
+2. Ampla Comunidade: Python tem uma comunidade ativa e amigável. Você encontrará uma abundância de recursos, documentação e ajuda online.
 
-2. **Ampla Comunidade:** Python tem uma comunidade ativa e amigável. Você encontrará uma abundância de recursos, documentação e ajuda online.
+3. Versatilidade: Python é usado em diversos campos, desde desenvolvimento web até análise de dados e inteligência artificial. Isso o torna uma escolha versátil para diferentes tipos de projetos.
 
-3. **Versatilidade:** Python é usado em diversos campos, desde desenvolvimento web até análise de dados e inteligência artificial. Isso o torna uma escolha versátil para diferentes tipos de projetos.
+4. Bibliotecas e Frameworks: Python possui uma grande variedade de bibliotecas e frameworks prontos para uso, o que acelera o desenvolvimento de projetos.
 
-4. **Bibliotecas e Frameworks:** Python possui uma grande variedade de bibliotecas e frameworks prontos para uso, o que acelera o desenvolvimento de projetos.
-
-5. **Gratuito e de Código Aberto:** Python é de código aberto, o que significa que você pode usá-lo gratuitamente e contribuir para seu desenvolvimento.
+5. Gratuito e de Código Aberto: Python é de código aberto, o que significa que você pode usá-lo gratuitamente e contribuir para seu desenvolvimento.
 
 Aqui está um exemplo simples de código Python que exibe "Olá, mundo!" na tela:
 
