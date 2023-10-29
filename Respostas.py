@@ -1,4 +1,4 @@
-**Resposta para o Projeto 1: Calculadora (calc.py)**
+Resposta para o Projeto 1: Calculadora (calc.py)
 ```python
 def adicao(a, b):
     return a + b
@@ -15,7 +15,7 @@ def divisao(a, b):
     return a / b
 ```
 
-**Resposta para o Projeto 2: Lista de Tarefas (tarefas.py)**
+Resposta para o Projeto 2: Lista de Tarefas (tarefas.py)
 ```python
 lista_de_tarefas = []
 
@@ -35,7 +35,7 @@ def excluir_tarefa(indice):
         del lista_de_tarefas[indice - 1]
 ```
 
-**Resposta para o Projeto 3: Conversor de Moeda (conversor.py)**
+Resposta para o Projeto 3: Conversor de Moeda (conversor.py)
 ```python
 import requests
 
@@ -49,7 +49,7 @@ def converter_moeda(valor, moeda_de, moeda_para):
     return resultado
 ```
 
-**Resposta para o Projeto 4: Jogo da Forca (forca.py)**
+Resposta para o Projeto 4: Jogo da Forca (forca.py)
 ```python
 import random
 
@@ -81,7 +81,7 @@ def jogar_forca():
     if tentativas == 0:
         print("Você perdeu. A palavra era:", palavra)
 
-**Resposta para o Projeto 5: Site Pessoal (site.py)**
+Resposta para o Projeto 5: Site Pessoal (site.py)
 ```python
 def criar_pagina_html():
     with open('index.html', 'w') as file:
@@ -124,7 +124,7 @@ def criar_pagina_html():
 # Exemplo de uso:
 criar_pagina_html()
 
-**Resposta para o Projeto 6: Análise de Dados (analise_dados.py)**
+Resposta para o Projeto 6: Análise de Dados (analise_dados.py)
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
